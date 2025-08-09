@@ -1,0 +1,15 @@
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.exe
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.deps.json
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.runtimeconfig.json
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.dll
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.pdb
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.AssemblyInfoInputs.cache
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.AssemblyInfo.cs
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.csproj.CoreCompileInputs.cache
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.sourcelink.json
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.dll
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\refint\InheritanceAndOverriding.dll
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.pdb
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.genruntimeconfig.cache
+C:\Users\God's baby girl\Downloads\DCIT318\InheritanceAndOverriding\obj\Debug\net9.0\ref\InheritanceAndOverriding.dll
