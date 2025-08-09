@@ -1,0 +1,15 @@
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\bin\Debug\net9.0\InterfacesExample.exe
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\bin\Debug\net9.0\InterfacesExample.deps.json
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\bin\Debug\net9.0\InterfacesExample.runtimeconfig.json
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\bin\Debug\net9.0\InterfacesExample.dll
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\bin\Debug\net9.0\InterfacesExample.pdb
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\InterfacesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\InterfacesExample.AssemblyInfoInputs.cache
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\InterfacesExample.AssemblyInfo.cs
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\InterfacesExample.csproj.CoreCompileInputs.cache
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\InterfacesExample.sourcelink.json
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\InterfacesExample.dll
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\refint\InterfacesExample.dll
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\InterfacesExample.pdb
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\InterfacesExample.genruntimeconfig.cache
+C:\Users\God's baby girl\Downloads\DCIT318\InterfacesExample\obj\Debug\net9.0\ref\InterfacesExample.dll
